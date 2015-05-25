@@ -18,7 +18,7 @@ Design and Programming by: Daniël Spies (Holland)
 
 -STL Files of the Nin10do case
 
--Link to the Nin10do IMG file
+[-Link to the Nin10do IMG file](https://www.dropbox.com/s/w9ur5qal7dlegkj/Nin10do_Final.rar?dl=0)
 
 -Readme / Installation Guide
 
