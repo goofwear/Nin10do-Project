@@ -24,5 +24,3 @@ Design and Programming by: Daniël Spies (Holland)
 
 -Nin10do Splash Screen
 
-
-#Link to the Nin10do IMG file
