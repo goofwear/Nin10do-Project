@@ -24,3 +24,5 @@ Design and Programming by: Daniël Spies (Holland)
 
 -Nin10do Splash Screen
 
+-Detailled Part list (added 4th August '15)
+
